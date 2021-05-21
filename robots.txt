@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.vidabuenaacres.com/gh-pages/sitemap.xml
