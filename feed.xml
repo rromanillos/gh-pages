@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>La Vida Buena Acres</title>
-    <link href="https://www.vidabuenaacres.com/gh-pages/feed.xml" rel="self" />
-    <link href="https://www.vidabuenaacres.com/gh-pages" />
+    <link href="https://www.vidabuenaacres.com/feed.xml" rel="self" />
+    <link href="https://www.vidabuenaacres.com" />
     <updated>2021-05-21T14:23:36-07:00</updated>
     <author>
         <name>Vida Buena Acres</name>
     </author>
-    <id>https://www.vidabuenaacres.com/gh-pages</id>
+    <id>https://www.vidabuenaacres.com</id>
 
     <entry>
         <title>Grass-Fed Lamb</title>
         <author>
             <name>Vida Buena Acres</name>
         </author>
-        <link href="https://www.vidabuenaacres.com/gh-pages/grassfed-lamb/"/>
-        <id>https://www.vidabuenaacres.com/gh-pages/grassfed-lamb/</id>
+        <link href="https://www.vidabuenaacres.com/grassfed-lamb/"/>
+        <id>https://www.vidabuenaacres.com/grassfed-lamb/</id>
 
         <updated>2021-05-21T14:18:51-07:00</updated>
             <summary>
@@ -27,7 +27,7 @@
             <![CDATA[
                 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://www.vidabuenaacres.com/gh-pages/media/posts/6/Maggie-small.jpeg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.vidabuenaacres.com/gh-pages/media/posts/6/responsive/Maggie-small-xs.jpeg 300w ,https://www.vidabuenaacres.com/gh-pages/media/posts/6/responsive/Maggie-small-sm.jpeg 480w ,https://www.vidabuenaacres.com/gh-pages/media/posts/6/responsive/Maggie-small-md.jpeg 768w ,https://www.vidabuenaacres.com/gh-pages/media/posts/6/responsive/Maggie-small-lg.jpeg 1024w ,https://www.vidabuenaacres.com/gh-pages/media/posts/6/responsive/Maggie-small-xl.jpeg 1360w ,https://www.vidabuenaacres.com/gh-pages/media/posts/6/responsive/Maggie-small-2xl.jpeg 1600w"  height="4032" width="3024" alt="" />
+      <img loading="lazy" src="https://www.vidabuenaacres.com/media/posts/6/Maggie-small.jpeg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.vidabuenaacres.com/media/posts/6/responsive/Maggie-small-xs.jpeg 300w ,https://www.vidabuenaacres.com/media/posts/6/responsive/Maggie-small-sm.jpeg 480w ,https://www.vidabuenaacres.com/media/posts/6/responsive/Maggie-small-md.jpeg 768w ,https://www.vidabuenaacres.com/media/posts/6/responsive/Maggie-small-lg.jpeg 1024w ,https://www.vidabuenaacres.com/media/posts/6/responsive/Maggie-small-xl.jpeg 1360w ,https://www.vidabuenaacres.com/media/posts/6/responsive/Maggie-small-2xl.jpeg 1600w"  height="4032" width="3024" alt="" />
       
     </figure>
 
@@ -37,7 +37,7 @@
 <hr class="separator separator--long-line" />
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://www.vidabuenaacres.com/gh-pages/media/posts/6/Ewe-and-lamb-in-meadow.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.vidabuenaacres.com/gh-pages/media/posts/6/responsive/Ewe-and-lamb-in-meadow-xs.jpg 300w ,https://www.vidabuenaacres.com/gh-pages/media/posts/6/responsive/Ewe-and-lamb-in-meadow-sm.jpg 480w ,https://www.vidabuenaacres.com/gh-pages/media/posts/6/responsive/Ewe-and-lamb-in-meadow-md.jpg 768w ,https://www.vidabuenaacres.com/gh-pages/media/posts/6/responsive/Ewe-and-lamb-in-meadow-lg.jpg 1024w ,https://www.vidabuenaacres.com/gh-pages/media/posts/6/responsive/Ewe-and-lamb-in-meadow-xl.jpg 1360w ,https://www.vidabuenaacres.com/gh-pages/media/posts/6/responsive/Ewe-and-lamb-in-meadow-2xl.jpg 1600w"  height="178" width="300" alt="" />
+      <img loading="lazy" src="https://www.vidabuenaacres.com/media/posts/6/Ewe-and-lamb-in-meadow.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.vidabuenaacres.com/media/posts/6/responsive/Ewe-and-lamb-in-meadow-xs.jpg 300w ,https://www.vidabuenaacres.com/media/posts/6/responsive/Ewe-and-lamb-in-meadow-sm.jpg 480w ,https://www.vidabuenaacres.com/media/posts/6/responsive/Ewe-and-lamb-in-meadow-md.jpg 768w ,https://www.vidabuenaacres.com/media/posts/6/responsive/Ewe-and-lamb-in-meadow-lg.jpg 1024w ,https://www.vidabuenaacres.com/media/posts/6/responsive/Ewe-and-lamb-in-meadow-xl.jpg 1360w ,https://www.vidabuenaacres.com/media/posts/6/responsive/Ewe-and-lamb-in-meadow-2xl.jpg 1600w"  height="178" width="300" alt="" />
       
     </figure>
             ]]>
@@ -48,8 +48,8 @@
         <author>
             <name>Vida Buena Acres</name>
         </author>
-        <link href="https://www.vidabuenaacres.com/gh-pages/pasture-raised-eggs/"/>
-        <id>https://www.vidabuenaacres.com/gh-pages/pasture-raised-eggs/</id>
+        <link href="https://www.vidabuenaacres.com/pasture-raised-eggs/"/>
+        <id>https://www.vidabuenaacres.com/pasture-raised-eggs/</id>
             <category term="Pasture Raised Eggs"/>
 
         <updated>2021-05-21T14:22:02-07:00</updated>
@@ -64,18 +64,18 @@
   <div  class="gallery-wrapper gallery-wrapper--wide">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://www.vidabuenaacres.com/gh-pages/media/posts/5/gallery/pastured-raised-chickens-2.jpg" data-size="3024x3024">
-        <img loading="lazy" src="https://www.vidabuenaacres.com/gh-pages/media/posts/5/gallery/pastured-raised-chickens-2-thumbnail.jpg" height="720" width="720" alt="Pasture raised eggs" />
+      <a href="https://www.vidabuenaacres.com/media/posts/5/gallery/pastured-raised-chickens-2.jpg" data-size="3024x3024">
+        <img loading="lazy" src="https://www.vidabuenaacres.com/media/posts/5/gallery/pastured-raised-chickens-2-thumbnail.jpg" height="720" width="720" alt="Pasture raised eggs" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.vidabuenaacres.com/gh-pages/media/posts/5/gallery/Barred-Rock-Chicks-2.jpg" data-size="3024x3024">
-        <img loading="lazy" src="https://www.vidabuenaacres.com/gh-pages/media/posts/5/gallery/Barred-Rock-Chicks-2-thumbnail.jpg" height="720" width="720" alt="Plymouth rock chick" />
+      <a href="https://www.vidabuenaacres.com/media/posts/5/gallery/Barred-Rock-Chicks-2.jpg" data-size="3024x3024">
+        <img loading="lazy" src="https://www.vidabuenaacres.com/media/posts/5/gallery/Barred-Rock-Chicks-2-thumbnail.jpg" height="720" width="720" alt="Plymouth rock chick" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.vidabuenaacres.com/gh-pages/media/posts/5/gallery/free-range-eggs-2.jpg" data-size="3024x3024">
-        <img loading="lazy" src="https://www.vidabuenaacres.com/gh-pages/media/posts/5/gallery/free-range-eggs-2-thumbnail.jpg" height="720" width="720" alt="Hen free ranging on the farm" />
+      <a href="https://www.vidabuenaacres.com/media/posts/5/gallery/free-range-eggs-2.jpg" data-size="3024x3024">
+        <img loading="lazy" src="https://www.vidabuenaacres.com/media/posts/5/gallery/free-range-eggs-2-thumbnail.jpg" height="720" width="720" alt="Hen free ranging on the farm" />
       </a>
       
     </figure>
@@ -108,7 +108,7 @@
 <hr class="separator separator--long-line" />
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://www.vidabuenaacres.com/gh-pages/media/posts/5/Chicken-in-meadow.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.vidabuenaacres.com/gh-pages/media/posts/5/responsive/Chicken-in-meadow-xs.jpg 300w ,https://www.vidabuenaacres.com/gh-pages/media/posts/5/responsive/Chicken-in-meadow-sm.jpg 480w ,https://www.vidabuenaacres.com/gh-pages/media/posts/5/responsive/Chicken-in-meadow-md.jpg 768w ,https://www.vidabuenaacres.com/gh-pages/media/posts/5/responsive/Chicken-in-meadow-lg.jpg 1024w ,https://www.vidabuenaacres.com/gh-pages/media/posts/5/responsive/Chicken-in-meadow-xl.jpg 1360w ,https://www.vidabuenaacres.com/gh-pages/media/posts/5/responsive/Chicken-in-meadow-2xl.jpg 1600w"  height="178" width="300" alt="" />
+      <img loading="lazy" src="https://www.vidabuenaacres.com/media/posts/5/Chicken-in-meadow.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.vidabuenaacres.com/media/posts/5/responsive/Chicken-in-meadow-xs.jpg 300w ,https://www.vidabuenaacres.com/media/posts/5/responsive/Chicken-in-meadow-sm.jpg 480w ,https://www.vidabuenaacres.com/media/posts/5/responsive/Chicken-in-meadow-md.jpg 768w ,https://www.vidabuenaacres.com/media/posts/5/responsive/Chicken-in-meadow-lg.jpg 1024w ,https://www.vidabuenaacres.com/media/posts/5/responsive/Chicken-in-meadow-xl.jpg 1360w ,https://www.vidabuenaacres.com/media/posts/5/responsive/Chicken-in-meadow-2xl.jpg 1600w"  height="178" width="300" alt="" />
       
     </figure>
             ]]>
@@ -119,8 +119,8 @@
         <author>
             <name>Vida Buena Acres</name>
         </author>
-        <link href="https://www.vidabuenaacres.com/gh-pages/forested-pork/"/>
-        <id>https://www.vidabuenaacres.com/gh-pages/forested-pork/</id>
+        <link href="https://www.vidabuenaacres.com/forested-pork/"/>
+        <id>https://www.vidabuenaacres.com/forested-pork/</id>
             <category term="Forested Pork"/>
 
         <updated>2021-05-21T14:20:54-07:00</updated>
@@ -133,7 +133,7 @@
             <![CDATA[
                 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://www.vidabuenaacres.com/gh-pages/media/posts/4/forested-pork.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.vidabuenaacres.com/gh-pages/media/posts/4/responsive/forested-pork-xs.jpg 300w ,https://www.vidabuenaacres.com/gh-pages/media/posts/4/responsive/forested-pork-sm.jpg 480w ,https://www.vidabuenaacres.com/gh-pages/media/posts/4/responsive/forested-pork-md.jpg 768w ,https://www.vidabuenaacres.com/gh-pages/media/posts/4/responsive/forested-pork-lg.jpg 1024w ,https://www.vidabuenaacres.com/gh-pages/media/posts/4/responsive/forested-pork-xl.jpg 1360w ,https://www.vidabuenaacres.com/gh-pages/media/posts/4/responsive/forested-pork-2xl.jpg 1600w"  height="3024" width="3024" alt="Pigs saying hello from the forest." />
+      <img loading="lazy" src="https://www.vidabuenaacres.com/media/posts/4/forested-pork.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.vidabuenaacres.com/media/posts/4/responsive/forested-pork-xs.jpg 300w ,https://www.vidabuenaacres.com/media/posts/4/responsive/forested-pork-sm.jpg 480w ,https://www.vidabuenaacres.com/media/posts/4/responsive/forested-pork-md.jpg 768w ,https://www.vidabuenaacres.com/media/posts/4/responsive/forested-pork-lg.jpg 1024w ,https://www.vidabuenaacres.com/media/posts/4/responsive/forested-pork-xl.jpg 1360w ,https://www.vidabuenaacres.com/media/posts/4/responsive/forested-pork-2xl.jpg 1600w"  height="3024" width="3024" alt="Pigs saying hello from the forest." />
       
     </figure>
 
@@ -143,7 +143,7 @@
 <hr class="separator separator--long-line" />
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://www.vidabuenaacres.com/gh-pages/media/posts/4/Pig-in-meadow.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.vidabuenaacres.com/gh-pages/media/posts/4/responsive/Pig-in-meadow-xs.jpg 300w ,https://www.vidabuenaacres.com/gh-pages/media/posts/4/responsive/Pig-in-meadow-sm.jpg 480w ,https://www.vidabuenaacres.com/gh-pages/media/posts/4/responsive/Pig-in-meadow-md.jpg 768w ,https://www.vidabuenaacres.com/gh-pages/media/posts/4/responsive/Pig-in-meadow-lg.jpg 1024w ,https://www.vidabuenaacres.com/gh-pages/media/posts/4/responsive/Pig-in-meadow-xl.jpg 1360w ,https://www.vidabuenaacres.com/gh-pages/media/posts/4/responsive/Pig-in-meadow-2xl.jpg 1600w"  height="178" width="300" alt="" />
+      <img loading="lazy" src="https://www.vidabuenaacres.com/media/posts/4/Pig-in-meadow.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.vidabuenaacres.com/media/posts/4/responsive/Pig-in-meadow-xs.jpg 300w ,https://www.vidabuenaacres.com/media/posts/4/responsive/Pig-in-meadow-sm.jpg 480w ,https://www.vidabuenaacres.com/media/posts/4/responsive/Pig-in-meadow-md.jpg 768w ,https://www.vidabuenaacres.com/media/posts/4/responsive/Pig-in-meadow-lg.jpg 1024w ,https://www.vidabuenaacres.com/media/posts/4/responsive/Pig-in-meadow-xl.jpg 1360w ,https://www.vidabuenaacres.com/media/posts/4/responsive/Pig-in-meadow-2xl.jpg 1600w"  height="178" width="300" alt="" />
       
     </figure>
             ]]>
@@ -154,8 +154,8 @@
         <author>
             <name>Vida Buena Acres</name>
         </author>
-        <link href="https://www.vidabuenaacres.com/gh-pages/about-us/"/>
-        <id>https://www.vidabuenaacres.com/gh-pages/about-us/</id>
+        <link href="https://www.vidabuenaacres.com/about-us/"/>
+        <id>https://www.vidabuenaacres.com/about-us/</id>
 
         <updated>2021-05-21T14:23:36-07:00</updated>
             <summary>
@@ -167,12 +167,12 @@
             <![CDATA[
                 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://www.vidabuenaacres.com/gh-pages/media/posts/1/Ladybug-2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.vidabuenaacres.com/gh-pages/media/posts/1/responsive/Ladybug-2-xs.jpg 300w ,https://www.vidabuenaacres.com/gh-pages/media/posts/1/responsive/Ladybug-2-sm.jpg 480w ,https://www.vidabuenaacres.com/gh-pages/media/posts/1/responsive/Ladybug-2-md.jpg 768w ,https://www.vidabuenaacres.com/gh-pages/media/posts/1/responsive/Ladybug-2-lg.jpg 1024w ,https://www.vidabuenaacres.com/gh-pages/media/posts/1/responsive/Ladybug-2-xl.jpg 1360w ,https://www.vidabuenaacres.com/gh-pages/media/posts/1/responsive/Ladybug-2-2xl.jpg 1600w"  height="250" width="333" alt="" />
+      <img loading="lazy" src="https://www.vidabuenaacres.com/media/posts/1/Ladybug-2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.vidabuenaacres.com/media/posts/1/responsive/Ladybug-2-xs.jpg 300w ,https://www.vidabuenaacres.com/media/posts/1/responsive/Ladybug-2-sm.jpg 480w ,https://www.vidabuenaacres.com/media/posts/1/responsive/Ladybug-2-md.jpg 768w ,https://www.vidabuenaacres.com/media/posts/1/responsive/Ladybug-2-lg.jpg 1024w ,https://www.vidabuenaacres.com/media/posts/1/responsive/Ladybug-2-xl.jpg 1360w ,https://www.vidabuenaacres.com/media/posts/1/responsive/Ladybug-2-2xl.jpg 1600w"  height="250" width="333" alt="" />
       
     </figure>
 
     <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://www.vidabuenaacres.com/gh-pages/media/posts/1/about-us.jpeg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.vidabuenaacres.com/gh-pages/media/posts/1/responsive/about-us-xs.jpeg 300w ,https://www.vidabuenaacres.com/gh-pages/media/posts/1/responsive/about-us-sm.jpeg 480w ,https://www.vidabuenaacres.com/gh-pages/media/posts/1/responsive/about-us-md.jpeg 768w ,https://www.vidabuenaacres.com/gh-pages/media/posts/1/responsive/about-us-lg.jpeg 1024w ,https://www.vidabuenaacres.com/gh-pages/media/posts/1/responsive/about-us-xl.jpeg 1360w ,https://www.vidabuenaacres.com/gh-pages/media/posts/1/responsive/about-us-2xl.jpeg 1600w"  height="607" width="1080" alt="" />
+      <img loading="lazy" src="https://www.vidabuenaacres.com/media/posts/1/about-us.jpeg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.vidabuenaacres.com/media/posts/1/responsive/about-us-xs.jpeg 300w ,https://www.vidabuenaacres.com/media/posts/1/responsive/about-us-sm.jpeg 480w ,https://www.vidabuenaacres.com/media/posts/1/responsive/about-us-md.jpeg 768w ,https://www.vidabuenaacres.com/media/posts/1/responsive/about-us-lg.jpeg 1024w ,https://www.vidabuenaacres.com/media/posts/1/responsive/about-us-xl.jpeg 1360w ,https://www.vidabuenaacres.com/media/posts/1/responsive/about-us-2xl.jpeg 1600w"  height="607" width="1080" alt="" />
       
     </figure>
 
@@ -195,13 +195,13 @@
   <div  class="gallery-wrapper gallery-wrapper--center">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://www.vidabuenaacres.com/gh-pages/media/posts/1/gallery/chipi-adventure.jpeg" data-size="1440x1440">
-        <img loading="lazy" src="https://www.vidabuenaacres.com/gh-pages/media/posts/1/gallery/chipi-adventure-thumbnail.jpeg" height="720" width="720" alt="" />
+      <a href="https://www.vidabuenaacres.com/media/posts/1/gallery/chipi-adventure.jpeg" data-size="1440x1440">
+        <img loading="lazy" src="https://www.vidabuenaacres.com/media/posts/1/gallery/chipi-adventure-thumbnail.jpeg" height="720" width="720" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.vidabuenaacres.com/gh-pages/media/posts/1/gallery/trailer.jpeg" data-size="3024x3024">
-        <img loading="lazy" src="https://www.vidabuenaacres.com/gh-pages/media/posts/1/gallery/trailer-thumbnail.jpeg" height="720" width="720" alt="" />
+      <a href="https://www.vidabuenaacres.com/media/posts/1/gallery/trailer.jpeg" data-size="3024x3024">
+        <img loading="lazy" src="https://www.vidabuenaacres.com/media/posts/1/gallery/trailer-thumbnail.jpeg" height="720" width="720" alt="" />
       </a>
       
     </figure>
@@ -299,7 +299,7 @@
 </div>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://www.vidabuenaacres.com/gh-pages/media/posts/1/grasshopper-2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.vidabuenaacres.com/gh-pages/media/posts/1/responsive/grasshopper-2-xs.jpg 300w ,https://www.vidabuenaacres.com/gh-pages/media/posts/1/responsive/grasshopper-2-sm.jpg 480w ,https://www.vidabuenaacres.com/gh-pages/media/posts/1/responsive/grasshopper-2-md.jpg 768w ,https://www.vidabuenaacres.com/gh-pages/media/posts/1/responsive/grasshopper-2-lg.jpg 1024w ,https://www.vidabuenaacres.com/gh-pages/media/posts/1/responsive/grasshopper-2-xl.jpg 1360w ,https://www.vidabuenaacres.com/gh-pages/media/posts/1/responsive/grasshopper-2-2xl.jpg 1600w"  height="225" width="300" alt="" />
+      <img loading="lazy" src="https://www.vidabuenaacres.com/media/posts/1/grasshopper-2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.vidabuenaacres.com/media/posts/1/responsive/grasshopper-2-xs.jpg 300w ,https://www.vidabuenaacres.com/media/posts/1/responsive/grasshopper-2-sm.jpg 480w ,https://www.vidabuenaacres.com/media/posts/1/responsive/grasshopper-2-md.jpg 768w ,https://www.vidabuenaacres.com/media/posts/1/responsive/grasshopper-2-lg.jpg 1024w ,https://www.vidabuenaacres.com/media/posts/1/responsive/grasshopper-2-xl.jpg 1360w ,https://www.vidabuenaacres.com/media/posts/1/responsive/grasshopper-2-2xl.jpg 1600w"  height="225" width="300" alt="" />
       
     </figure>
             ]]>
