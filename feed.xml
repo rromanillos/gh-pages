@@ -3,7 +3,7 @@
     <title>La Vida Buena Acres</title>
     <link href="https://www.vidabuenaacres.com/feed.xml" rel="self" />
     <link href="https://www.vidabuenaacres.com" />
-    <updated>2021-05-22T08:47:56-07:00</updated>
+    <updated>2021-05-22T08:53:31-07:00</updated>
     <author>
         <name>Vida Buena Acres</name>
     </author>
@@ -157,7 +157,7 @@
         <link href="https://www.vidabuenaacres.com/about-us/"/>
         <id>https://www.vidabuenaacres.com/about-us/</id>
 
-        <updated>2021-05-22T08:47:56-07:00</updated>
+        <updated>2021-05-22T08:53:31-07:00</updated>
             <summary>
                 <![CDATA[
                      We never planned on having a farm, and yet we're here. This is the beginning of a new chapter - the last&hellip;
@@ -235,19 +235,19 @@
                             </p>
                             <div class="row-img">
                             	<div class="column-img">
-                            	 <a href="https://www.instagram.com/shannaf3o/">
-                            	 <img loading="lazy" src="https://www.vidabuenaacres.com/input/media/files/instagram-shannaf3o.jpg" data-is-external-image="true"  alt="Shanna Romanillos">
-                            	 </a>
+                            	     <a href="https://www.instagram.com/shannaf3o/">
+                            	         <img loading="lazy" src="https://www.vidabuenaacres.com/media/files/instagram-shannaf3o.jpg" data-is-external-image="true"  alt="Shanna Romanillos">
+                            	     </a>
                             	</div>
                             	<div class="column-img">
-                            	<a href="https://www.facebook.com/shanna.romanillos">
-                            	<img loading="lazy" src="https://www.vidabuenaacres.com/input/media/files/facebook-shanna-romanillos.jpg" data-is-external-image="true"  alt="Shanna Romanillos">
-                            	</a>
+                            	    <a href="https://www.facebook.com/shanna.romanillos">
+                            	        <img loading="lazy" src="https://www.vidabuenaacres.com/media/files/facebook-shanna-romanillos.jpg" data-is-external-image="true"  alt="Shanna Romanillos">
+                            	    </a>
                             	</div>
                             	<div class="column-img">
-                            	<a href="https://www.linkedin.com/in/shanna-romanillos/">
-                            	<img loading="lazy" src="https://www.vidabuenaacres.com/input/media/files/linkedin-shanna-romanillos.jpg" data-is-external-image="true"  alt="Shanna Romanillos">
-                            	</a>
+                            	    <a href="https://www.linkedin.com/in/shanna-romanillos/">
+                            	        <img loading="lazy" src="https://www.vidabuenaacres.com/media/files/linkedin-shanna-romanillos.jpg" data-is-external-image="true"  alt="Shanna Romanillos">
+                            	    </a>
                             	</div>
                             </div>
                      </div>
