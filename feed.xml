@@ -3,7 +3,7 @@
     <title>La Vida Buena Acres</title>
     <link href="https://www.vidabuenaacres.com/feed.xml" rel="self" />
     <link href="https://www.vidabuenaacres.com" />
-    <updated>2021-05-22T08:45:44-07:00</updated>
+    <updated>2021-05-22T08:47:56-07:00</updated>
     <author>
         <name>Vida Buena Acres</name>
     </author>
@@ -157,7 +157,7 @@
         <link href="https://www.vidabuenaacres.com/about-us/"/>
         <id>https://www.vidabuenaacres.com/about-us/</id>
 
-        <updated>2021-05-22T08:45:44-07:00</updated>
+        <updated>2021-05-22T08:47:56-07:00</updated>
             <summary>
                 <![CDATA[
                      We never planned on having a farm, and yet we're here. This is the beginning of a new chapter - the last&hellip;
@@ -255,7 +255,7 @@
             <!-- card 2 ---> 
                 <article class="card-b">
                         <picture class="thumbnail">
-                            <img loading="lazy" src="https://www.vidabuenaacres.com/input/media/files/shanna-romanillos.jpeg" data-is-external-image="true"  alt="Shanna Romanillos" class="center-img">
+                            <img loading="lazy" src="https://www.vidabuenaacres.com/media/files/shanna-romanillos.jpeg" data-is-external-image="true"  alt="Shanna Romanillos" class="center-img">
                         </picture>
                 </article> 
     </section>
