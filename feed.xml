@@ -3,7 +3,7 @@
     <title>La Vida Buena Acres</title>
     <link href="https://www.vidabuenaacres.com/feed.xml" rel="self" />
     <link href="https://www.vidabuenaacres.com" />
-    <updated>2021-05-22T09:28:11-07:00</updated>
+    <updated>2021-05-22T12:42:40-07:00</updated>
     <author>
         <name>Vida Buena Acres</name>
     </author>
@@ -52,7 +52,7 @@
         <id>https://www.vidabuenaacres.com/pasture-raised-eggs/</id>
             <category term="Pasture Raised Eggs"/>
 
-        <updated>2021-05-21T15:14:44-07:00</updated>
+        <updated>2021-05-22T12:42:40-07:00</updated>
             <summary>
                 <![CDATA[
                      Chickens are happiest when they're hunting for bugs, spreading their wings, or taking a much needed dust bath. We're grateful to these&hellip;
@@ -83,7 +83,7 @@
   </div>
 
   <p>
-    Chickens are happiest when they're hunting for bugs, spreading their wings, or taking a much needed dust bath. We're grateful to these ladies for the wonderful eggs they produce, and in return we give them the best life they can have.&nbsp;
+    Chickens are happiest when they're hunting for bugs, spreading their wings, or taking a much needed dust bath. We're grateful to these ladies for the wonderful eggs they produce, and in return we give them the best life possible.&nbsp;
   </p>
 
     <h2 id="qualities">
@@ -91,20 +91,33 @@
     </h2>
 
   <ul>
-    <li>Non-GMO, Non-Soy, Non-Corn Feed</li><li>Daily access to explore the farm</li><li>Chicken tractor moved daily to maintain a clean environment</li><li>Clean nesting box - Clean eggs</li>
+    <li>Non-GMO, Non-Soy, Non-Corn Feed</li><li>Daily access to explore the farm - 8 hrs or more</li><li>Chicken tractor moved daily to maintain a clean environment</li><li>Clean nesting box - Clean eggs</li>
   </ul>
-
-    <blockquote class="blockquote">
-      Why did the chicken cross the road?&nbsp;
-    </blockquote>
 
     <h2 id="heritage-layers">
       Heritage Layers
     </h2>
 
   <p>
-    Lorem Ipsum
+    The eggs foudn on grocery store shelves are laid by one hybrid chicken. Bred to produce large numbers of eggs over a short life, this chicken fits the factory farm very well.
   </p>
+<div><div class="centered">
+    <section class="flex-container">
+            <!-- card one ---> 
+                <article class="card">                    
+                          <picture class="thumbnail">
+                            <img loading="lazy" src="https:www.vidabuenaacres.com/media/files/heritage-breed-chicken.jpg" data-is-external-image="true"  alt="A heritage Plymouth Barred Rock poult" class="center-img">
+                        </picture>
+                </article> 
+            <!-- card two --->
+            <article class="card">
+                    <div class="card-content">
+                            <h3 style="text-align:center;">Forested Pork</h3>
+                            <p> This breed of hen is NOT suited to a pasturebased farm like LVBA. To bring back the qualities of chicken that can flourish on grass, we looked to one of the original breeds of chicken in the U.S. The Plymouth Barred Rock is inquisitve and clever - they love to roam the farm looking for bugs. Fortunately, they also are smart enough to stay alive by being alert to the many predators they might face. 
+                            
+                     </div>
+                     </a>
+            </article></div>
 <hr class="separator separator--long-line" />
 
     <figure class="post__image post__image--center">
@@ -157,7 +170,7 @@
         <link href="https://www.vidabuenaacres.com/about-us/"/>
         <id>https://www.vidabuenaacres.com/about-us/</id>
 
-        <updated>2021-05-22T09:28:11-07:00</updated>
+        <updated>2021-05-22T12:20:31-07:00</updated>
             <summary>
                 <![CDATA[
                      We never planned on having a farm, and yet we're here. This is the beginning of a new chapter - the last&hellip;
@@ -185,7 +198,7 @@
   </p>
 
   <p>
-    His care had us throw a map open on the table in the summer of 2017 to figure out where we would move to make health better. After many graphs and cross-tabulations of allergens and particulates, we found the place - Corsicana, Texas! Having lived in Dallas for many years by that point, our friends were understandably perplexed by this decision. Nonetheless, we sold our house and moved. Immediately we saw the benefits in his daily health, so we found our new city.
+    His care had us throw a map open on the table in the summer of 2018 to figure out where we would move to make health better. After many graphs and cross-tabulations of allergens and particulates, we found the place - Corsicana, Texas! Having lived in Dallas for many years by that point, our friends and family were understandably perplexed by this decision. Nonetheless, we sold our house and moved. Immediately we saw the benefits in his daily health, so we found our new city.
   </p>
 
   <p>
