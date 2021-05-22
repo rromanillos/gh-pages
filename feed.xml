@@ -3,7 +3,7 @@
     <title>La Vida Buena Acres</title>
     <link href="https://www.vidabuenaacres.com/feed.xml" rel="self" />
     <link href="https://www.vidabuenaacres.com" />
-    <updated>2021-05-22T12:42:40-07:00</updated>
+    <updated>2021-05-22T13:45:53-07:00</updated>
     <author>
         <name>Vida Buena Acres</name>
     </author>
@@ -17,10 +17,10 @@
         <link href="https://www.vidabuenaacres.com/grassfed-lamb/"/>
         <id>https://www.vidabuenaacres.com/grassfed-lamb/</id>
 
-        <updated>2021-05-21T15:14:58-07:00</updated>
+        <updated>2021-05-22T13:28:03-07:00</updated>
             <summary>
                 <![CDATA[
-                     Grass 24/7 
+                     Grass 24/7 If our sheep were to have a motto, it would be "Grass24/7". Through rain, Texas heat, and winter blasts, our&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -34,6 +34,39 @@
     <h2 id="grass-247">
       Grass 24/7
     </h2>
+
+  <p>
+    If our sheep were to have a motto, it would be "<i>Grass24/7</i>". Through rain, Texas heat, and winter blasts, our flock weathers it all out on the field. We provide ample grass and shelter, while they help recycle the nutrients to the soil.<br>
+  </p>
+
+    <h2 id="qualities">
+      Qualities
+    </h2>
+
+  <ul>
+    <li>Pasture raised on grass - no supplemental grain</li><li>Certified Organic Icelandic Kelp, and Loose Minerals provided free-choice for nutrition</li><li>Rotated daily through fresh pasture</li>
+  </ul>
+
+    <h2 id="hair-sheep">
+      Hair Sheep
+    </h2>
+
+  <p>
+    We run only hair sheep at LVBA, including a mix of Dorper, Katahdin, and St. Croix breeds. These breeds are resistant to parasites and do very well living on grass. They are also capable mothers - they lamb in the field with only minimal help on our end.
+  </p>
+
+  <p>
+    Different from what we naturally think of in sheep, hair sheep do not produce a thick wool that requires shearing. Every spring they shed their winter coat, which often happens in bunches and patches that leaves them looking rather disheveled.&nbsp;
+  </p>
+
+  <p>
+    This is their magic - they do their thing and we enjoy the zen of watching sheep munch on grass.&nbsp;
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://www.vidabuenaacres.com/media/posts/6/hair-sheep.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.vidabuenaacres.com/media/posts/6/responsive/hair-sheep-xs.jpg 300w ,https://www.vidabuenaacres.com/media/posts/6/responsive/hair-sheep-sm.jpg 480w ,https://www.vidabuenaacres.com/media/posts/6/responsive/hair-sheep-md.jpg 768w ,https://www.vidabuenaacres.com/media/posts/6/responsive/hair-sheep-lg.jpg 1024w ,https://www.vidabuenaacres.com/media/posts/6/responsive/hair-sheep-xl.jpg 1360w ,https://www.vidabuenaacres.com/media/posts/6/responsive/hair-sheep-2xl.jpg 1600w"  height="3024" width="3024" alt="hair sheep losing its winter coat" />
+      
+    </figure>
 <hr class="separator separator--long-line" />
 
     <figure class="post__image post__image--center">
@@ -52,7 +85,7 @@
         <id>https://www.vidabuenaacres.com/pasture-raised-eggs/</id>
             <category term="Pasture Raised Eggs"/>
 
-        <updated>2021-05-22T12:42:40-07:00</updated>
+        <updated>2021-05-22T13:09:42-07:00</updated>
             <summary>
                 <![CDATA[
                      Chickens are happiest when they're hunting for bugs, spreading their wings, or taking a much needed dust bath. We're grateful to these&hellip;
@@ -91,7 +124,7 @@
     </h2>
 
   <ul>
-    <li>Non-GMO, Non-Soy, Non-Corn Feed</li><li>Daily access to explore the farm - 8 hrs or more</li><li>Chicken tractor moved daily to maintain a clean environment</li><li>Clean nesting box - Clean eggs</li>
+    <li>Non-GMO, Non-Soy, Non-Corn Feed</li><li>Daily access to explore the farm - 8 hrs or more</li><li>Added nutrition from flowers, plants, and bugs</li><li>Chicken tractor moved daily to maintain a clean environment</li><li>Clean nesting box - Clean eggs</li>
   </ul>
 
     <h2 id="heritage-layers">
@@ -99,25 +132,28 @@
     </h2>
 
   <p>
-    The eggs foudn on grocery store shelves are laid by one hybrid chicken. Bred to produce large numbers of eggs over a short life, this chicken fits the factory farm very well.
+    The eggs found on grocery store shelves are laid by one hybrid chicken. Bred to produce large numbers of eggs over a short life, this chicken fits the factory farm very well.
   </p>
 <div><div class="centered">
     <section class="flex-container">
             <!-- card one ---> 
-                <article class="card">                    
+                <article class="card-b">                    
                           <picture class="thumbnail">
                             <img loading="lazy" src="https:www.vidabuenaacres.com/media/files/heritage-breed-chicken.jpg" data-is-external-image="true"  alt="A heritage Plymouth Barred Rock poult" class="center-img">
                         </picture>
                 </article> 
             <!-- card two --->
-            <article class="card">
+            <article class="card-b">
                     <div class="card-content">
-                            <h3 style="text-align:center;">Forested Pork</h3>
-                            <p> This breed of hen is NOT suited to a pasturebased farm like LVBA. To bring back the qualities of chicken that can flourish on grass, we looked to one of the original breeds of chicken in the U.S. The Plymouth Barred Rock is inquisitve and clever - they love to roam the farm looking for bugs. Fortunately, they also are smart enough to stay alive by being alert to the many predators they might face. 
-                            
+                            <p> This breed of hen is NOT suited to a pasturebased farm like LVBA. To bring back the qualities of chicken that can flourish on grass, we looked to one of the original breeds of chicken in the U.S. The Plymouth Barred Rock is inquisitve and clever - they love to roam the farm looking for bugs and plants. Fortunately, they also are smart enough to stay alive by being alert to the many predators they might face.
+                         </p>
                      </div>
                      </a>
             </article></div>
+
+  <p>
+    They also lay beautiful medium- to large-sized eggs almost every day. We've also found that they weather the ups and downs of Texas weather very well. All around they are a wonderful breed, and we hope you'll agree!
+  </p>
 <hr class="separator separator--long-line" />
 
     <figure class="post__image post__image--center">
@@ -136,10 +172,10 @@
         <id>https://www.vidabuenaacres.com/forested-pork/</id>
             <category term="Forested Pork"/>
 
-        <updated>2021-05-21T15:15:17-07:00</updated>
+        <updated>2021-05-22T13:45:53-07:00</updated>
             <summary>
                 <![CDATA[
-                     Lorem Ipsum 
+                     Pigs are hilarious! Pigs are the class clowns of the farm, and ours are no exception. We channel the exuberance of the&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -150,8 +186,32 @@
       
     </figure>
 
+    <h3 id="pigs-are-hilarious" class="align-center">
+      Pigs are hilarious!
+    </h3>
+
   <p>
-    Lorem Ipsum
+    Pigs are the class clowns of the farm, and ours are no exception. We channel the exuberance of the pig into helping us clean up the farm, all while producing that yummy <a href="#pork">pork</a> we all love. By rotating our swine through forest and pasture they can fully embrace their natural instincts to root and forage. This allows them to supplement the feed we provide with the forage and insects they find on the land. It also helps us by removing overgrowth and exposing the underbrush within the cedar breaks.&nbsp;
+  </p>
+
+    <h2 id="qualities">
+      Qualities
+    </h2>
+
+  <ul>
+    <li>Non-GMO, Soy- and Corn-Free feed</li><li>Rotated through pasture and forest weekly</li>
+  </ul>
+
+    <h2 id="pork">
+      Pork
+    </h2>
+
+  <p>
+    Heritage pork is rich, marbled like beef, and <em>NOTHING</em> like what you've been led to believe by the grocery aisle.
+  </p>
+
+  <p>
+    
   </p>
 <hr class="separator separator--long-line" />
 
